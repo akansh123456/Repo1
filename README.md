@@ -1,2 +1,2 @@
 # Repo1
-Simple redme command
+Simple readme command
